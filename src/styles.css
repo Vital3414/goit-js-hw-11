@@ -19,7 +19,9 @@
 
   padding: 20px;
 
-  background-color: rgba(9, 36, 189, 0.395);
+  background-image: url(./images/ukr.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .form-wrapper {
